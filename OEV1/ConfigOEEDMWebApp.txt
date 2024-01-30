@@ -1,0 +1,9 @@
+GST=5
+CONFIG LOCATION = C:/Users/edoucett/Desktop/ConfigOEWebApp.txt
+FILE EXPORT LOCATION=\\vmortl\Timberline\Purchasing\Import
+MORSQL CONNECTION STRING=Data Source=MORSQL;Initial Catalog=MorrisonHomes;User Id=bpm_user;Password=resu_mpb1; TrustServerCertificate=True
+VMORTL CONNECTION STRING=Data Source=VMORTL\SQLEXPRESS;Initial Catalog=TimberlineEdmonton;User Id=ITMain;Password=M0rr1s0n1961; TrustServerCertificate=True
+EMAIL SMTP:10.0.0.26
+EMAIL PORT:25
+EMAIL FROM:oe@morrisonhomes.ca
+
